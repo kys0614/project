@@ -1,3 +1,2 @@
-print("Hello World!")
-
-print("Hi! World!")
+print("Hello!!")
+print("My name is YeonSoo Kim")
